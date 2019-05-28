@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8845b7d5-5917-4728-9f68-e69b7acca646" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/ChatService/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="0b656f81-4994-400c-ae8b-0d100324e048" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChatService/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="c25779b2-0c9e-400f-bcfa-d19d7b3268c8" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChatService/Service1/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="ebcf821e-f4fc-4ee0-8aff-47b940475969" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChatService/Service1/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="aea78c15-13a5-4bba-b4fa-53ad2751850d" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChatService/Service1/mex" />
+    <MetadataFile FileName="ChatService.xsd" MetadataType="Schema" ID="245cb10c-c6fb-457e-8df2-01128be7374e" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChatService/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

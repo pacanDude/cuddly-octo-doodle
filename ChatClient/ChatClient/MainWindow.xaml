@@ -1,0 +1,23 @@
+﻿<Window x:Class="ChatClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChatClient"
+        mc:Ignorable="d"
+        Title="Chat client" Height="600" Width="800" Closing="Window_Closing">
+    <Grid>
+        <Button Content="Register" HorizontalAlignment="Left" Margin="10,63,0,0" VerticalAlignment="Top" Width="106" Click="Button_Click"/>
+        <TextBox Name="loginTextBox" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="245"/>
+        <PasswordBox Name="passwordTextBox" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Width="245"/>
+        <Button Content="Login" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Width="106" Click="Button_Click_1"/>
+        <Button Content="LogOut" HorizontalAlignment="Left" Margin="121,90,0,0" VerticalAlignment="Top" Width="134" Click="Button_Click_2"/>
+        <ListBox Name="usersListBox" HorizontalAlignment="Left" Height="550" Margin="530,10,0,0" VerticalAlignment="Top" Width="252"/>
+        <TextBox Name="messageTextBox" HorizontalAlignment="Left" Height="23" Margin="10,178,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="245"/>
+        <Button Content="Send" HorizontalAlignment="Left" Margin="10,206,0,0" VerticalAlignment="Top" Width="135" Click="Button_Click_3"/>
+        <DataGrid AutoGenerateColumns="True" Name="messagesDataGrid" HorizontalAlignment="Left" Height="304" Margin="16,256,0,0" VerticalAlignment="Top" Width="490"/>
+        <Button Content="Get messages" HorizontalAlignment="Left" Margin="346,229,0,0" VerticalAlignment="Top" Width="160" Click="Button_Click_4"/>
+        <TextBox Name="userLoginTextBox" HorizontalAlignment="Left" Height="23" Margin="16,150,0,0" TextWrapping="Wrap" Text="Enter login" VerticalAlignment="Top" Width="239"/>
+
+    </Grid>
+</Window>

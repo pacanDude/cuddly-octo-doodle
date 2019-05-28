@@ -1,0 +1,45 @@
+C:\Students\Network programming\WCF\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Students\Network programming\WCF\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Students\Network programming\WCF\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Students\Network programming\WCF\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Students\Network programming\WCF\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Students\Network programming\WCF\ChatClient\ChatClient\obj\Debug\App.g.cs
+C:\Students\Network programming\WCF\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Students\Network programming\WCF\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Students\Network programming\WCF\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+C:\Students\Network programming\WCF\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Students\Network programming\WCF\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Students\Network programming\WCF\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Students\Network programming\WCF\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Students\Network programming\WCF\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Students\Network programming\WCF\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\obj\Debug\App.g.cs
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Students\Network programming\WCF\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\obj\Debug\App.g.cs
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\setup\Desktop\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
